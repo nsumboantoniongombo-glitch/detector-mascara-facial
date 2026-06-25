@@ -1,7 +1,7 @@
-tensorflow-cpu==2.18.0
-opencv-python-headless
+keras
 numpy
 matplotlib
 scikit-learn
 Pillow
 streamlit
+opencv-python-headless
